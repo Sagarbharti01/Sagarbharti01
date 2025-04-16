@@ -1,4 +1,4 @@
-![logo](https://github.com/AkashAnuragi/AkashAnuragi/blob/main/github%20banner.png)
+![logo](https://github.com/Sagarbharti01/Sagarbharti01/blob/main/Sagar%20Banner.png)
 <h1 align="center">Hi 👋, I'm Akash Anuragi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
