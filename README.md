@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashanuragi&label=Profile%20views&color=0e75b6&style=flat" alt="akashanuragi" /> </p>
 
-- 📫 How to reach me **akashanuragi421@gmail.com**
+- 📫 How to reach me **Sagarrsingh8923@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
