@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sagarbharti01&show_icons=true&locale=en" alt="Sagarbharti01" /></p>
 
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=AkashAnuragi&theme=dark&hide_border=false&" alt="Sagarbharti01" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Sagarbharti01&theme=dark&hide_border=false&" alt="Sagarbharti01" /></p>
